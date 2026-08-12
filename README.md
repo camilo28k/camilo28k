@@ -1,8 +1,5 @@
-<!--
-CONFIG
-FULL NAME: Harold Camilo Barrera Giraldo
-GITHUB USER: camilo28k
+<!-- CONFIG
+FULL_NAME: Harold Camilo Barrera Giraldo
+GITHUB_USER: camilo28k
 -->
-
-# Harold Camilo Barrera Giraldo
 
