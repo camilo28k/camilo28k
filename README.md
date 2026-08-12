@@ -1,7 +1,7 @@
 <!--
 CONFIG
-FULL NAME: Jesús Ariel González Bonilla
-GITHUB USER: arie15253
+FULL NAME: Harold Camilo Barrera Giraldo
+GITHUB USER: camilo28k
 -- >
 
 ## Hi there 👋
