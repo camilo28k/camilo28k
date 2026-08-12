@@ -1,3 +1,9 @@
+<!--
+CONFIG
+FULL NAME: Jesús Ariel González Bonilla
+GITHUB USER: arie15253
+-- >
+
 ## Hi there 👋
 
 <!--
